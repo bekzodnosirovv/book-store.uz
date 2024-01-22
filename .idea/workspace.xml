@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c2933c7-0646-496c-97d1-b955640ca0a7" name="Changes" comment=" fix" />
+    <list default="true" id="0c2933c7-0646-496c-97d1-b955640ca0a7" name="Changes" comment=" add">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +28,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/auth-server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -171,6 +174,7 @@
       <updated>1705862425273</updated>
       <workItem from="1705862426545" duration="20482000" />
       <workItem from="1705901085491" duration="20548000" />
+      <workItem from="1705927187387" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="add project">
       <option name="closed" value="true" />
@@ -220,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705926273229</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" add">
+      <option name="closed" value="true" />
+      <created>1705927231565</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705927231565</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +256,7 @@
     <MESSAGE value="add user controller add 2" />
     <MESSAGE value="finish" />
     <MESSAGE value=" fix" />
-    <option name="LAST_COMMIT_MESSAGE" value=" fix" />
+    <MESSAGE value=" add" />
+    <option name="LAST_COMMIT_MESSAGE" value=" add" />
   </component>
 </project>
